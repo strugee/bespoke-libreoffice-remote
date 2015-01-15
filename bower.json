@@ -1,0 +1,11 @@
+{
+	"name": "bespoke-libreoffice-remote",
+	"version": "1.0.0",
+	"main": "./dist/bespoke-libreoffice-remote.js",
+	"ignore": [
+		"**/.*"
+	],
+	"dependencies": {
+		"bespoke.js": ">=1.0.0"
+	}
+}
